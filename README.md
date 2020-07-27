@@ -1,5 +1,5 @@
 # SnakeGame
-Hangman Game - PyGame
+Snake Game - PyGame
 
 Date: ***July 27nd 2020***
 
